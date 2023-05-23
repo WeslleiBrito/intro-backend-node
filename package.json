@@ -1,0 +1,15 @@
+{
+  "name": "ozemela-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "retornaBrasil": "clear && node index.js brazil",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pratica2b": "clear && node pratica2b.js Brasil BR"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
